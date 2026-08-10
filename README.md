@@ -24,6 +24,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
