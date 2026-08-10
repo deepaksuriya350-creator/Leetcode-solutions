@@ -15,3 +15,15 @@ To share my progress with the developer community.
 This repository may also include multiple programming languages, depending on the problem requirements and experimentation. Each commit corresponds to a specific solved problem, making it easy to track the learning path and revisit past solutions for optimization.
 
 Note: This is a personal learning project. The solutions are based on my understanding and may not always represent the most optimal or official approach. Feedback and suggestions are always welcome.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
