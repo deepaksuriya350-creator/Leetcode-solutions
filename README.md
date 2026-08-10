@@ -22,6 +22,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
