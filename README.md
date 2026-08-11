@@ -21,6 +21,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,5 +57,10 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
