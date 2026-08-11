@@ -21,6 +21,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -46,9 +47,14 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
