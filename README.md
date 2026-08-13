@@ -23,6 +23,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
