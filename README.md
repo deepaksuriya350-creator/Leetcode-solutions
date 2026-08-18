@@ -130,4 +130,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
