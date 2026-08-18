@@ -48,6 +48,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -101,6 +102,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
@@ -130,6 +132,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
@@ -142,4 +145,5 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
