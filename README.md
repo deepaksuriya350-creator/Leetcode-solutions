@@ -100,6 +100,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
@@ -128,6 +129,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
@@ -136,4 +138,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0182-duplicate-emails](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0184-department-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
