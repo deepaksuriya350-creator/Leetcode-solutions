@@ -48,6 +48,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0031-next-permutation) |
@@ -131,6 +133,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -146,4 +149,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
