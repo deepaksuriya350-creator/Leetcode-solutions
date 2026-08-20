@@ -88,6 +88,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
