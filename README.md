@@ -171,6 +171,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0184-department-highest-salary) |
