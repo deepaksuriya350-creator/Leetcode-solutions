@@ -28,6 +28,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -210,5 +211,10 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
