@@ -220,9 +220,11 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
