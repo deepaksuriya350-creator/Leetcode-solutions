@@ -54,6 +54,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -232,6 +233,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -239,6 +241,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
