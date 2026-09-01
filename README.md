@@ -48,6 +48,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -198,6 +200,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 ## Database
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 ## Brute-Force Search
 |  |
 | ------- |
