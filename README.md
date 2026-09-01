@@ -204,6 +204,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0182-duplicate-emails) |
