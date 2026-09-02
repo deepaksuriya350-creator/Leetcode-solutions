@@ -171,6 +171,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -231,6 +232,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -260,6 +262,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -314,4 +317,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
