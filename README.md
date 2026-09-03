@@ -82,6 +82,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -264,6 +265,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
