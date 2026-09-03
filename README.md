@@ -86,6 +86,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -268,6 +269,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0138-copy-list-with-random-pointer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -327,4 +329,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
