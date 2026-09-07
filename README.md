@@ -54,6 +54,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -270,6 +271,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -336,6 +338,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
 |  |
