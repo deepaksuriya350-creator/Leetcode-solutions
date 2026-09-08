@@ -173,6 +173,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0234-palindrome-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -367,4 +370,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
