@@ -51,6 +51,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
@@ -104,6 +105,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -124,6 +126,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
 ## Prefix Sum
 |  |
@@ -153,6 +156,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -206,6 +210,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0229-majority-element-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -261,6 +266,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0239-sliding-window-maximum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
