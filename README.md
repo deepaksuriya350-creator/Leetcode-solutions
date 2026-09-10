@@ -34,6 +34,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
@@ -79,6 +80,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -173,6 +175,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -186,6 +189,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
@@ -283,6 +287,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
