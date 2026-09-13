@@ -55,6 +55,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
+| [0704-binary-search](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0162-find-peak-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
