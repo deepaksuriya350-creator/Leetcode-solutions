@@ -51,6 +51,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -69,6 +70,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0162-find-peak-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
@@ -90,6 +92,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -141,6 +144,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -165,6 +169,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
