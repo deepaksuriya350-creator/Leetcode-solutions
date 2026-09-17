@@ -65,6 +65,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
