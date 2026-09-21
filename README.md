@@ -28,6 +28,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0035-search-insert-position](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -140,6 +141,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -388,6 +390,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0046-permutations](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
