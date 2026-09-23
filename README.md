@@ -103,6 +103,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -261,6 +262,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -394,6 +396,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0078-subsets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Breadth-First Search
 |  |
