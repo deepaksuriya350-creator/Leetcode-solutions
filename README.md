@@ -289,6 +289,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0182-duplicate-emails](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0262-trips-and-users) |
 ## Bracket Sequences
 |  |
