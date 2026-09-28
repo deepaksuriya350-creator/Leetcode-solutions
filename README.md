@@ -139,6 +139,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -163,6 +164,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 ## Prefix Sum
 |  |
@@ -421,6 +423,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
@@ -468,6 +471,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -476,6 +480,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +490,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
