@@ -71,6 +71,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -140,6 +141,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -425,6 +427,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
@@ -482,6 +485,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
@@ -509,4 +513,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
