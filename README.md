@@ -474,6 +474,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -483,6 +484,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
@@ -495,6 +497,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
@@ -517,4 +520,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
