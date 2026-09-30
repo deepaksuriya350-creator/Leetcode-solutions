@@ -476,6 +476,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -486,6 +487,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -499,6 +501,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -528,4 +531,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
