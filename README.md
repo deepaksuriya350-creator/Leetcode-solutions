@@ -483,6 +483,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -498,6 +499,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -516,6 +518,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -562,4 +565,5 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
