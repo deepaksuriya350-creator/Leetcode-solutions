@@ -42,6 +42,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -245,6 +246,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -480,6 +482,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0100-same-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -519,6 +522,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0100-same-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -574,6 +578,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
