@@ -449,6 +449,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -534,6 +535,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0543-diameter-of-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
@@ -572,6 +574,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0133-clone-graph](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -615,4 +618,5 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0130-surrounded-regions](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
