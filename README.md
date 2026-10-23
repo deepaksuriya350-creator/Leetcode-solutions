@@ -147,6 +147,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -305,6 +306,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -340,6 +342,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -438,6 +441,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0078-subsets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -648,6 +652,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -709,4 +714,16 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
