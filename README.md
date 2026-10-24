@@ -130,6 +130,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Hash Table
 |  |
@@ -357,6 +358,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -486,6 +488,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -581,6 +584,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -626,6 +630,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -735,4 +740,5 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
