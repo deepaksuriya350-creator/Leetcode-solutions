@@ -355,6 +355,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -482,6 +483,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -576,6 +578,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -621,6 +624,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0210-course-schedule-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -696,6 +700,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Minimax
@@ -726,4 +731,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
