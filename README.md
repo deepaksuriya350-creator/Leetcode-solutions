@@ -86,6 +86,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [1128-number-of-equivalent-domino-pairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -636,6 +637,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -685,6 +687,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bipartite Graph
 |  |
@@ -751,4 +754,20 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
