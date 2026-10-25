@@ -590,6 +590,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -634,6 +635,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -741,4 +743,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0743-network-delay-time](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
