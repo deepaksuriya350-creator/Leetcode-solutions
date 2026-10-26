@@ -111,6 +111,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -121,6 +122,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -773,4 +775,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
