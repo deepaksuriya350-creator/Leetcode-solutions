@@ -128,6 +128,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0063-unique-paths-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -309,6 +310,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0127-word-ladder) |
