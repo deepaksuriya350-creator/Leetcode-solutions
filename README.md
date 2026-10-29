@@ -141,6 +141,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -227,6 +228,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
