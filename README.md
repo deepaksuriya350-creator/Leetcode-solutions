@@ -139,6 +139,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -325,6 +326,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0299-bulls-and-cows](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
