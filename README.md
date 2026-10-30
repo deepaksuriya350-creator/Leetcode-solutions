@@ -79,6 +79,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -406,6 +407,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0542-01-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -510,6 +512,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -606,6 +609,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
@@ -706,6 +710,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0721-accounts-merge](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bipartite Graph
