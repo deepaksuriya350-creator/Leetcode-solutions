@@ -87,6 +87,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1054-distant-barcodes](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1054-distant-barcodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -409,6 +410,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0778-swim-in-rising-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -518,6 +520,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0994-rotting-oranges](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1036-escape-a-large-maze](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1036-escape-a-large-maze) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Merge Sort
