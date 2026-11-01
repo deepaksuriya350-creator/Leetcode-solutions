@@ -64,6 +64,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0239-sliding-window-maximum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0312-burst-balloons](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -138,6 +139,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
