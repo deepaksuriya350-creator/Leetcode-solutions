@@ -166,6 +166,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0160-intersection-of-two-linked-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -327,6 +328,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0151-reverse-words-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -460,6 +462,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 ## Brute-Force Search
 |  |
@@ -538,6 +541,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0146-lru-cache](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0901-online-stock-span) |
