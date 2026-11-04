@@ -48,6 +48,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0120-triangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -475,6 +476,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | ------- |
 | [0078-subsets](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
