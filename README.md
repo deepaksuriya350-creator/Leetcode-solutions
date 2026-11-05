@@ -142,6 +142,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0213-house-robber-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -479,6 +480,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0136-single-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Pigeonhole Principle
