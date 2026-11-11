@@ -57,6 +57,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0169-majority-element](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -339,6 +340,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -417,6 +419,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0085-maximal-rectangle](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -474,6 +477,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0139-word-break](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0648-replace-words) |
 ## Brute-Force Search
 |  |
@@ -505,6 +509,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0090-subsets-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Breadth-First Search
