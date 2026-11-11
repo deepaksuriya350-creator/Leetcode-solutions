@@ -71,6 +71,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0324-wiggle-sort-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -148,6 +149,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -772,6 +774,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -827,4 +830,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
