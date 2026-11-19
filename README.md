@@ -133,6 +133,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0062-unique-paths) |
@@ -332,6 +333,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -461,6 +463,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
