@@ -240,6 +240,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0011-container-with-most-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -338,6 +339,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 | [0010-regular-expression-matching](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0072-edit-distance) |
@@ -727,6 +729,7 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -806,10 +809,12 @@ Note: This is a personal learning project. The solutions are based on my underst
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Shortest Path
 |  |
@@ -852,4 +857,8 @@ Note: This is a personal learning project. The solutions are based on my underst
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepaksuriya350-creator/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
